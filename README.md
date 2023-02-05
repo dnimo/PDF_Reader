@@ -1,5 +1,5 @@
 # PDF_Reader
-Update the write method cause pafminer has upgraded
+Update the write method cause pdfminer has upgraded
 
 Reference package:
 
